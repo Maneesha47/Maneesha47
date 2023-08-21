@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm Maneesha. Pursuing M.Tech in Cryptology and Security at Indian Statistical Institute, kolkata. 
-
-- 🔭 I’m currently working on smart contract vulnerabilities and their verification
-- 🌱 I’ve worked on Blockchain based Internet Voting Protocols using NIZKP
-- 👯 I’m looking to collaborate on smart contract security or ZKP based projects
+I'm Maneesha. I’m  a Blockchain Engineer at Rubix Network. 👩‍💼
+- 🔭 I have pursued M.Tech in Cryptology and Security at Indian Statistical Institute, kolkata. 
+- 👩‍🎓 I have completed Integrated M.Sc. in Mathematics from Central University of Orissa.
+- 🌱 I’ve worked on Blockchain-based e-Voting Protocols using NIZKP, and smart contract vulnerabilities.
